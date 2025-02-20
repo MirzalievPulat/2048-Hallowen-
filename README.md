@@ -12,7 +12,13 @@
 | <img src="https://github.com/MirzalievPulat/2048-Hallowen-/blob/main/3.jpg?raw=true" width="200"/> | <img src="https://github.com/MirzalievPulat/2048-Hallowen-/blob/main/4.jpg?raw=true" width="200"/> |
 
 
-## ⚒️ Tools
+## ✨ Features
+- Remembering the last game state 
+- Back to previous state, restart the game
+- Counting score and moves 
+- Changing animations according to max tile
+
+## ⚒️ Used technologies 
 
 **OnTouchListener** for handling touch events for tile movement.
 
@@ -25,3 +31,6 @@
 
 Contact me with the help of email(mirzaliyevpolat3105@gmail.com), [telegram](https://t.me/mirzaliyev2002) or [inkedIn](https://www.linkedin.com/in/po-lat-mirzaliyev-1628762b6/).
 
+## Download
+
+You can download the APK file from [here](https://github.com/MirzalievPulat/2048-Hallowen-/raw/main/app-release.apk)
