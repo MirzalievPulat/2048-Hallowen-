@@ -5,7 +5,7 @@
 # 🎃 2048 (Halloween)
 
 2048 (Halloween) is a spooky-themed variation of the classic 2048 puzzle game. Players slide and merge Halloween-inspired tiles to reach the highest possible score. Players can continue the game where it left.
-## Screenshots
+## 📸 Screenshots
 
 | <img src="https://github.com/MirzalievPulat/2048-Hallowen-/blob/main/1.jpg?raw=true" width="200"/> | <img src="https://github.com/MirzalievPulat/2048-Hallowen-/blob/main/2.jpg?raw=true" width="200"/> |
 |---|---|
