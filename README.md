@@ -31,6 +31,6 @@
 
 Contact me with the help of email(mirzaliyevpolat3105@gmail.com), [telegram](https://t.me/mirzaliyev2002) or [inkedIn](https://www.linkedin.com/in/po-lat-mirzaliyev-1628762b6/).
 
-## Download
+## 📥 Download
 
 You can download the APK file from [here](https://github.com/MirzalievPulat/2048-Hallowen-/raw/main/app-release.apk)
