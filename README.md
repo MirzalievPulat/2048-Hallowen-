@@ -20,13 +20,13 @@
 
 ## ⚒️ Used technologies 
 
-**Kotlin** as a programming language
+**Kotlin:** as a programming language
 
-**OnTouchListener** for handling touch events for tile movement.
+**OnTouchListener:** for handling touch events for tile movement.
 
-**Animations** for providing a smooth and engaging user experience.
+**Animations:** for providing a smooth and engaging user experience.
 
-**SharedPreferences** for storing user preferences and game state.
+**SharedPreferences:** for storing user preferences and game state.
 
 
 ## 📞 Contact
