@@ -20,6 +20,8 @@
 
 ## ⚒️ Used technologies 
 
+**Kotlin** as a programming language
+
 **OnTouchListener** for handling touch events for tile movement.
 
 **Animations** for providing a smooth and engaging user experience.
